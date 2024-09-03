@@ -218,7 +218,7 @@ UEdGraphPin* UMapAddOtherNode::GetOtherMapPin() const
 
 FText UMapAddOtherNode::GetNodeTitle(ENodeTitleType::Type TitleType) const
 {
-	return LOCTEXT "NodeTitle_NONE", "Add Other Map");
+	return LOCTEXT("NodeTitle_NONE", "Add Other Map");
 }
 
 FText UMapAddOtherNode::GetTooltipText( ) const
