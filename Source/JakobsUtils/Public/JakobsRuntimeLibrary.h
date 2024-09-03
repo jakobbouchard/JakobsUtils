@@ -1,7 +1,7 @@
 ﻿#pragma once
 
 #include "CoreMinimal.h"
-#include "JakobsUtilsRuntime/JakobsUtilsGlobals.h"
+#include "JakobsUtils/JakobsUtilsGlobals.h"
 #include "Kismet/BlueprintFunctionLibrary.h"
 #include "JakobsRuntimeLibrary.generated.h"
 
@@ -12,7 +12,7 @@ enum class ELatentLerpOverTimeOutputPins : uint8;
  * 
  */
 UCLASS(DisplayName="Jakob's Runtime Library")
-class JAKOBSUTILSRUNTIME_API UJakobsRuntimeLibrary : public UBlueprintFunctionLibrary
+class JAKOBSUTILS_API UJakobsRuntimeLibrary : public UBlueprintFunctionLibrary
 {
 	GENERATED_BODY()
 

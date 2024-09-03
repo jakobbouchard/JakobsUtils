@@ -1,8 +1,8 @@
 ﻿using UnrealBuildTool;
 
-public class JakobsUtilsRuntime : ModuleRules
+public class JakobsUtils : ModuleRules
 {
-    public JakobsUtilsRuntime(ReadOnlyTargetRules Target) : base(Target)
+    public JakobsUtils(ReadOnlyTargetRules Target) : base(Target)
     {
         PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
 

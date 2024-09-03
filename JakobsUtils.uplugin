@@ -16,6 +16,11 @@
 	"Installed": false,
 	"Modules": [
 		{
+			"Name": "JakobsUtils",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
 			"Name": "JakobsUtilsDeveloper",
 			"Type": "UncookedOnly",
 			"LoadingPhase": "Default"
@@ -23,11 +28,6 @@
 		{
 			"Name": "JakobsUtilsEditor",
 			"Type": "Editor",
-			"LoadingPhase": "Default"
-		},
-		{
-			"Name": "JakobsUtilsRuntime",
-			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
 	]

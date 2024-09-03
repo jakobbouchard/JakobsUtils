@@ -1,7 +1,7 @@
 ﻿#pragma once
 
 #include "CoreMinimal.h"
-#include "JakobsUtilsRuntime/JakobsUtilsGlobals.h"
+#include "JakobsUtils/JakobsUtilsGlobals.h"
 #include "LatentActions.h"
 #include "LatentLerpOverTime.generated.h"
 

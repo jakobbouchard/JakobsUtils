@@ -10,7 +10,7 @@ public class JakobsUtilsDeveloper : ModuleRules
             new string[]
             {
                 "Core",
-                "JakobsUtilsRuntime",
+                "JakobsUtils",
             }
         );
 
