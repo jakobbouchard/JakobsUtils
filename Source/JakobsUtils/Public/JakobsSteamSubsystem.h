@@ -3,6 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "JakobsUtils/JakobsUtilsGlobals.h"
 #include "Subsystems/GameInstanceSubsystem.h"
 #include "steam/steam_api.h"
 #include "JakobsSteamSubsystem.generated.h"
