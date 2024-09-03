@@ -10,6 +10,7 @@ public class JakobsUtils : ModuleRules
             new string[]
             {
                 "Core",
+                "Steamworks",
             }
         );
 
